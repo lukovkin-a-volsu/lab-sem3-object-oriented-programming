@@ -1,0 +1,49 @@
+6
+--------------------------------------WRONG
+sport 1
+discipline 1
+world
+0
+12 8 2022
+Germany
+none 1
+--------------------------------------CORRECT
+sport 2
+discipline 2
+world
+0
+12 8 2023
+Germany
+none 2
+--------------------------------------CORRECT
+sport 3
+discipline 3
+world
+0
+7 8 2023
+USA
+none 3
+--------------------------------------WRONG
+sport 4
+discipline 4
+world
+1
+2 1 2023
+England
+none 4
+--------------------------------------CORRECT
+sport 5
+discipline 5
+world
+0
+19 4 2023
+Russia
+none 5
+--------------------------------------CORRECT
+sport 6
+discipline 6
+world
+0
+17 8 2023
+Kazakhstan
+none 6

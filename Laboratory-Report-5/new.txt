@@ -1,0 +1,41 @@
+5
+--------------------------------------
+sport 2
+discipline 2
+world
+0
+8 12 2023
+Germany
+none 2
+----------------------------------------
+sport 3
+discipline 3
+world
+0
+8 7 2023
+USA
+none 3
+----------------------------------------
+sport 5
+discipline 5
+world
+0
+4 19 2023
+Russia
+none 5
+----------------------------------------
+sport 6
+discipline 6
+world
+0
+8 17 2023
+Kazakhstan
+none 6
+----------------------------------------
+sport 16
+discipline 16
+world
+0
+12 1 2023
+Niger
+none 16

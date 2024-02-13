@@ -1,0 +1,177 @@
+22
+--------------------------------------WRONGFEM
+sport 1
+discipline 1
+world
+0
+12 8 2022
+Germany
+none 1
+--------------------------------------CORRECTFEM
+sport 2
+discipline 2
+world
+0
+12 8 2023
+Germany
+none 2
+--------------------------------------CORRECTFEM
+sport 3
+discipline 3
+world
+0
+7 8 2023
+USA
+none 3
+--------------------------------------WRONGFEM
+sport 4
+discipline 4
+world
+1
+2 1 2023
+England
+none 4
+--------------------------------------CORRECTFEM
+sport 5
+discipline 5
+world
+0
+19 4 2023
+Russia
+none 5
+--------------------------------------CORRECTFEM
+sport 6
+discipline 6
+world
+0
+17 8 2023
+Kazakhstan
+none 6
+----------------------------------------
+sport 7
+discipline 7
+world
+0
+2 5 2000
+Germany
+none 7
+----------------------------------------
+sport 8
+discipline 8
+european
+1
+13 12 1990
+USA
+none 8
+---------------------------------------
+sport 9
+discipline 9
+european
+0
+7 8 2001
+England
+none 9
+----------------------------------------
+sport 10
+discipline 10
+european
+0
+17 3 2003
+Russia
+none 10
+----------------------------------------
+sport 11
+discipline 11
+european1
+1
+20 9 2009
+USA
+none 11
+----------------------------------------
+sport 12
+discipline 12
+world
+1
+4 1 1994
+England
+none 12
+----------------------------------------
+sport 13
+discipline 13
+asian
+0
+20 8 2023
+Russia
+none 13
+----------------------------------------
+sport 14
+discipline 14
+asian
+1
+20 10 2023
+USA
+none 14
+----------------------------------------
+sport 15
+discipline 15
+world
+0
+19 1 2023
+Russia
+none 15
+----------------------------------------
+sport 16
+discipline 16
+world
+0
+1 12 2023
+Niger
+none 16
+----------------------------------------
+sport 17
+discipline 17
+world
+0
+2 5 2000
+Germany
+none 17
+--------------------------------------
+sport 18
+discipline 18
+european
+1
+13 12 1990
+USA
+none 18
+--------------------------------------
+sport 19
+discipline 19
+european
+0
+7 8 2001
+England
+none 19
+--------------------------------------wrong
+sport 20
+discipline 20
+world
+0
+29 2 2023
+Germany
+none 20
+--------------------------------------correct
+sport 21
+discipline 21
+european
+1
+29 2 2000
+USA
+none 21
+--------------------------------------wrong
+sport 22
+discipline 22
+asian
+0
+7 8 1000
+England
+none 22

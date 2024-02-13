@@ -1,0 +1,11 @@
+10
+sport1 discipline1 world 0 2.5.2000 Germany none1
+sport2 discipline2 european1 1 13.12.1990 USA none2
+sport3 discipline3 european2 0 7.8.2001 England none3
+sport1 discipline2 european 0 17.3.2003 Russia none3
+sport2 discipline2 european1 1 20.9.2009 USA none4
+sport1 discipline3 world 1 4.1.1994 England none5
+sport1 discipline4 asian 0 20.8.2023 Russia none6
+sport3 discipline4 asian 1 20.10.2023 USA none7
+sport3 discipline4 world 1 19.1.2023 Russia none8
+sport3 discipline5 world 1 1.12.2023 Niger none9

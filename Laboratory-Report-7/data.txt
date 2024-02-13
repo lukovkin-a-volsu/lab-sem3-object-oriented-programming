@@ -1,0 +1,62 @@
+5
+--------------------------------------
+team
+Sport 1
+Football
+100 meter dash
+1
+20 3 2020
+Russia
+world record
+Russia national team
+11
+Moscow
+Fall
+--------------------------------------
+individual
+Sport 1
+Football
+100 meter dash
+1
+19 8 2010
+Russia
+world record
+Ivan Ivanov
+Ivanov
+180
+70
+--------------------------------------
+team
+Sport 1
+Swimming
+100 meter freestyle
+0
+1 8 2023
+United states
+Olympic record
+United states national team
+26
+Tokyo, Japan
+Summer
+--------------------------------------
+individual
+Sport 1
+Basketball
+3-point field goal
+0
+23 10 2023
+Australia
+National record
+Draymond
+Green
+2.37
+105
+--------------------------------------
+default
+Cybersport
+Valorant
+Deathmatch
+1
+19 9 2022
+USA
+National record

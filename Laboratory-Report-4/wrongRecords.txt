@@ -1,0 +1,25 @@
+3
+--------------------------------------wrong
+sport 1
+discipline 1
+world
+0
+29 2 2023
+Germany
+none 1
+--------------------------------------correct
+sport 2
+discipline 2
+european
+1
+29 2 2000
+USA
+none 2
+--------------------------------------wrong
+sport 3
+discipline 3
+asian
+0
+7 8 1000
+England
+none 3
